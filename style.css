@@ -1,0 +1,101 @@
+body{
+    background-color:grey ;
+}
+
+
+    h1{
+    background-color: silver;
+    color: black;
+    padding: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{ 
+    margin: 1px;
+
+}
+ #ph1{
+    background-color: rgb(5, 46, 231);
+    color: white;
+    padding: 15px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#ph2{
+background-color: rgb(68, 56, 241);
+color: white;
+padding: 15px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#ph3{
+    background-color: rgb(72, 72, 227);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ph4{
+    background-color: rgb(89, 89, 241);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ph5{
+    background-color: rgb(110, 110, 244);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ph6{
+    background-color: rgb(139, 139, 243);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ph7{
+    background-color: rgb(3, 107, 13);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ph8{
+    background-color: hsl(319, 86%, 73%);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ph9{
+    background-color: hsl(319, 86%, 66%);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ph10{
+    background-color: hsl(318, 83%, 62%);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ph11{
+    background-color: hsl(317, 97%, 52%);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ph12{
+    background-color: hsl(319, 86%, 55%);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ph13{
+    background-color: hsl(321, 95%, 47%);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ph14{
+    background-color: hsl(325, 92%, 46%);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    
